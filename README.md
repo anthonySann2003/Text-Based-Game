@@ -27,3 +27,7 @@ You go on a camping trip with your best friend, only to be knocked out, waking u
 1. Open the code via visual studio
 2. Run the main .cpp file, (You may need to clean the solution if it doesn't work the first time)
 3. Enjoy the game!
+
+**Note**
+This repository is not the original repo of the project, it is a private repo, therefore I couldn't share the repo publicly, if you wish to see the 300 commits throughout the project or anything
+else related to the original repo that is avaliable upon request.
