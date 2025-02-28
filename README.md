@@ -2,7 +2,7 @@
 Text-Based Horror Game
 Role: Lead Developer | Team Size: 7 | Tools: Agile, Scrum, Jira, C++, Visual Studio
 
-BTS Mansion Game is a text-based horror game developed as part of a collaborative student project, emphasizing Agile software development and team-based programming. My primary role was Lead Developer, where I designed and implemented the architecture for the main classes, ensuring scalability and modularity. I collaborated with other developers during team meetings to refine the code and align our technical decisions with project goals of the team.
+BTS Mansion Game is a text-based horror game developed as part of a collaborative project, emphasizing Agile software development and team-based programming. My primary role was Lead Developer, where I designed and implemented the architecture for the main classes, ensuring scalability and modularity. I collaborated with other developers during team meetings to refine the code and align our technical decisions with project goals of the team.
 
 Additionally, I supported the Scrum Master by assisting with sprint planning, backlog grooming, and other responsibilities as needed. Our team employed Jira and Kanban boards to efficiently manage tasks, track progress and story points, and divide work equally.
 
